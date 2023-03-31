@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Viviane Agnoletto.
 
 - 🔭 Estudante de desenvolvimento Web.
-- 🌱 Minha meta é ser desenvolvedora fullstack.
+- 🌱 Tenho como objetivo ser desenvolvedora fullstack.
 
 <div>
 <a href="https://github.com/vivianeagnoletto">
